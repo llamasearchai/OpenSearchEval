@@ -1,29 +1,10 @@
 # OpenSearchEval: Ultimate Search Evaluation Platform
 
-<div align="center">
-
-[![PyPI version](https://badge.fury.io/py/opensearcheval.svg)](https://badge.fury.io/py/opensearcheval)
-[![Python versions](https://img.shields.io/pypi/pyversions/opensearcheval.svg)](https://pypi.org/project/opensearcheval/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/llamasearchai/OpenSearchEval/workflows/CI/badge.svg)](https://github.com/llamasearchai/OpenSearchEval/actions)
-[![Coverage Status](https://coveralls.io/repos/github/llamasearchai/OpenSearchEval/badge.svg?branch=main)](https://coveralls.io/github/llamasearchai/OpenSearchEval?branch=main)
-[![Documentation Status](https://readthedocs.org/projects/opensearcheval/badge/?version=latest)](https://opensearcheval.readthedocs.io/en/latest/?badge=latest)
-
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
-[![Type checking: mypy](https://img.shields.io/badge/%20type_checker-mypy-%231674b1?style=flat)](https://mypy-lang.org/)
-[![Security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
-
-[![Downloads](https://pepy.tech/badge/opensearcheval)](https://pepy.tech/project/opensearcheval)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/opensearcheval)](https://pypi.org/project/opensearcheval/)
-[![GitHub stars](https://img.shields.io/github/stars/llamasearchai/OpenSearchEval?style=social)](https://github.com/llamasearchai/OpenSearchEval/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/llamasearchai/OpenSearchEval?style=social)](https://github.com/llamasearchai/OpenSearchEval/network/members)
-
-</div>
+A comprehensive, production-ready platform for evaluating search quality, conducting A/B tests, and analyzing user behavior. Built with modern Python technologies and featuring agent architecture, FastAPI endpoints, and MLX integration for Apple Silicon optimization.
 
 ## Overview
 
-OpenSearchEval is a comprehensive, production-ready platform for evaluating search quality, conducting A/B tests, and analyzing user behavior. Built with modern Python technologies and featuring agent architecture, FastAPI endpoints, and MLX integration for Apple Silicon optimization.
+OpenSearchEval is a powerful search evaluation framework designed for modern search systems. It provides comprehensive metrics, A/B testing capabilities, and advanced analytics to help you understand and improve your search performance.
 
 ### Key Features
 
@@ -527,7 +508,4 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 
 ---
 
-<div align="center">
-  <p>Made with love by <a href="https://github.com/nikjois">Nik Jois</a></p>
-  <p>Star this project if you find it useful!</p>
-</div>
+Made with care by Nik Jois at LlamaSearch AI
