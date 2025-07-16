@@ -1,0 +1,75 @@
+# Core dependencies
+pydantic>=2.4.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.23.2
+httpx>=0.24.0
+aiofiles>=23.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# MLX for Apple Silicon optimization
+mlx>=0.0.5
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Big data processing
+pyspark>=3.4.0
+
+# Web UI
+flask>=2.3.0
+flask-cors>=4.0.0
+dash>=2.11.0
+dash-bootstrap-components>=1.4.0
+
+# Async support
+asyncio-mqtt>=0.11.0
+
+# Configuration
+click>=8.0.0
+rich>=13.0.0
+typer>=0.9.0
+
+# Caching
+redis>=4.5.0
+
+# Monitoring
+prometheus-client>=0.17.0
+psutil>=5.9.0
+
+# ML/LLM
+transformers>=4.30.0
+torch>=2.0.0
+openai>=1.0.0
+
+# Date/time
+python-dateutil>=2.8.0
+
+# Security
+cryptography>=41.0.0
+passlib>=1.7.4
+python-jose[cryptography]>=3.3.0
+
+# File handling
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# JSON handling
+orjson>=3.9.0
+
+# Logging
+structlog>=23.0.0
